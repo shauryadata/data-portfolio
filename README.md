@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shauryaditya Singh
+# Hi, I'm Shauryaditya Singh
 
 Welcome to my data portfolio! I'm a process engineer turned data enthusiast based in NYC, building real-world data science projects focused on business impact.
 
