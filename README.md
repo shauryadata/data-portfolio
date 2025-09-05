@@ -4,7 +4,7 @@ Welcome to my data portfolio! I'm a process engineer turned data enthusiast base
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 ### 1) [🧪 A/B Testing — Onboarding Activation](https://github.com/shauryadata/ab-testing-onboarding)
 Beginner-friendly, end-to-end A/B test on a synthetic onboarding dataset (A=1000, B=1000).  
